@@ -100,9 +100,8 @@ To remove a Ruin, a player must have a **Settlement**, **City**, or **Active Kni
 
 ## � Credits & Attribution
 
-* **Temple Ruin (Model 2):** Based on ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) by **jimjimjimmyjim**, used under the **CC BY 3.0** license.
-* Modifications made: Resized, hollowed out center for number token visibility.
-* **Temple Ruin Remix:** Also uses ["Ruined Tower - Crumbling Top"](https://www.printables.com/model/108521-ruined-tower-crumbling-top/files) by **Shiaic3D**, licensed under **CC BY 4.0**.
+* **Temple Ruin (Model 2.3 - Published Version):** This is a modified version of ["Ruined Tower - Crumbling Top"](https://www.printables.com/model/108521-ruined-tower-crumbling-top/files) by **Shiaic3D** (CC BY 4.0), which itself is a remix of ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) by **jimjimjimmyjim** (CC BY 3.0).
+* **Modifications made:** Resized to fit Catan number tokens (~29mm inner diameter), adjusted height, and optimized base footprint for board compatibility.
 
 ## �📄 License
 
@@ -216,9 +215,8 @@ Um eine Ruine zu entfernen, muss ein Spieler eine **Siedlung**, eine **Stadt** o
 
 ## 👏 Danksagung & Namensnennung
 
-* **Tempelruinen-Modell (Variante 2):** Basiert auf ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) von **jimjimjimmyjim**, verwendet unter der **CC BY 3.0** Lizenz.
-* Vorgenommene Änderungen: Größe angepasst, Mitte ausgehöhlt für Sichtbarkeit des Zahlenchips.
-* **Tempelruinen-Remix:** Zusätzlich genutzt wird ["Ruined Tower - Crumbling Top"](https://www.printables.com/model/108521-ruined-tower-crumbling-top/files) von **Shiaic3D**, lizenziert unter **CC BY 4.0**.
+* **Tempelruinen-Modell (Version 2.3 - Veröffentlichte Version):** Dies ist eine modifizierte Version von ["Ruined Tower - Crumbling Top"](https://www.printables.com/model/108521-ruined-tower-crumbling-top/files) von **Shiaic3D** (CC BY 4.0), welches selbst ein Remix von ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) von **jimjimjimmyjim** (CC BY 3.0) ist.
+* **Vorgenommene Änderungen:** Größe angepasst für Catan-Zahlenchips (~29mm Innendurchmesser), Höhe angepasst und Standfläche für Brett-Kompatibilität optimiert.
 
 ## 📄 Lizenz
 
