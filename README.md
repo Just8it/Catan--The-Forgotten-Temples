@@ -55,15 +55,15 @@ A Hex containing a Temple Ruin is considered **Dormant**.
 
 ### 3. Excavation (Active Gameplay)
 
-To remove a Ruin, a player must have a **Settlement**, **City**, or **Active Knight** connected to the Hex. On their turn, they may perform one of the following actions to clear it.
+To remove a Ruin, a player must have a **Settlement**, **City**, or **Active Knight** connected to the Hex. On their turn, they may perform one of the following actions.
 
-The cost is high: **1 Ore + 1 Brick + 1 Wood**.
+**The Base Cost:** 1 Ore + 1 Brick + 1 Wood.
 
 | Method | Requirement | Cost | The Reward |
 | :--- | :--- | :--- | :--- |
-| **Manual Excavation** | Connected **Settlement** | **1 Ore, 1 Brick, 1 Wood** | • Ruin is removed to the box.<br>• Hex Unlocks.<br>• **0 Victory Points.** |
-| **Royal Restoration** | Connected **City** | **1 Ore, 1 Brick, 1 Wood** | • Ruin is removed.<br>• **Player keeps the Ruin.**<br>• **+1 Victory Point.** |
-| **Military Purge** *(C&K)* | Active **Strong Knight** (Lvl 2+) | **Deactivate Knight** | • Ruin is removed to the box.<br>• Hex Unlocks.<br>• **0 Victory Points.** |
+| **Manual Excavation** | Connected **Settlement** | **1 Ore, 1 Brick, 1 Wood** | **"The Archaeologist's Loot"**<br>1. Remove Ruin to box & Unlock Hex.<br>2. **Roll a die:**<br>• **1-3:** Take **1 Resource** card of that hex type.<br>• **4-6:** Take **2 Resource** cards of that hex type. |
+| **Royal Restoration** | Connected **City** | **1 Ore, 1 Brick, 1 Wood** | **"The Prestige"**<br>1. Hex Unlocks.<br>2. **Player keeps the Ruin.**<br>3. It counts as **1 Permanent Victory Point.** |
+| **Military Purge** *(C&K)* | Active **Strong Knight** (Lvl 2+) | **Deactivate Knight** | **"The Efficient Command"**<br>1. Remove Ruin to box & Unlock Hex.<br>2. **No Resource Reward.**<br>*(The reward is saving your Ore/Wood/Brick cards).* |
 
 ### 4. Strategic Notes
 
@@ -171,15 +171,15 @@ Ein Feld, das eine Tempelruine enthält, gilt als **Dormant** (ruhend).
 
 ### 3. Ausgrabung (Aktives Spiel)
 
-Um eine Ruine zu entfernen, muss ein Spieler eine **Siedlung**, eine **Stadt** oder einen **aktiven Ritter** haben, der mit dem Feld verbunden ist. In seinem Zug kann er eine der folgenden Aktionen durchführen, um sie zu räumen.
+Um eine Ruine zu entfernen, muss ein Spieler eine **Siedlung**, eine **Stadt** oder einen **aktiven Ritter** haben, der mit dem Feld verbunden ist. In seinem Zug kann er eine der folgenden Aktionen durchführen.
 
-Die Kosten sind hoch: **1 Erz + 1 Lehm + 1 Holz**.
+**Die Grundkosten:** 1 Erz + 1 Lehm + 1 Holz.
 
 | Methode | Voraussetzung | Kosten | Die Belohnung |
 | :--- | :--- | :--- | :--- |
-| **Manuelle Ausgrabung** | Verbundene **Siedlung** | **1 Erz, 1 Lehm, 1 Holz** | • Ruine wird in die Schachtel zurückgelegt.<br>• Feld wird freigeschaltet.<br>• **0 Siegpunkte.** |
-| **Königliche Restaurierung** | Verbundene **Stadt** | **1 Erz, 1 Lehm, 1 Holz** | • Ruine wird entfernt.<br>• **Spieler behält die Ruine.**<br>• **+1 Siegpunkt.** |
-| **Militärische Säuberung** *(S&R)* | Aktiver **Starker Ritter** (Lvl 2+) | **Ritter deaktivieren** | • Ruine wird in die Schachtel zurückgelegt.<br>• Feld wird freigeschaltet.<br>• **0 Siegpunkte.** |
+| **Manuelle Ausgrabung** | Verbundene **Siedlung** | **1 Erz, 1 Lehm, 1 Holz** | **"Die Beute des Archäologen"**<br>1. Ruine in Schachtel & Feld freischalten.<br>2. **Würfeln:**<br>• **1-3:** Nimm **1 Ressource** dieses Feldtyps.<br>• **4-6:** Nimm **2 Ressourcen** dieses Feldtyps. |
+| **Königliche Restaurierung** | Verbundene **Stadt** | **1 Erz, 1 Lehm, 1 Holz** | **"Das Prestige"**<br>1. Feld wird freigeschaltet.<br>2. **Spieler behält die Ruine.**<br>3. Zählt als **1 Permanenter Siegpunkt.** |
+| **Militärische Säuberung** *(S&R)* | Aktiver **Starker Ritter** (Lvl 2+) | **Ritter deaktivieren** | **"Das Effiziente Kommando"**<br>1. Ruine in Schachtel & Feld freischalten.<br>2. **Keine Ressourcenbelohnung.**<br>*(Die Belohnung ist das Einsparen der Erz/Holz/Lehm-Karten).* |
 
 ### 4. Strategische Hinweise
 
