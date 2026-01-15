@@ -91,9 +91,8 @@ To remove a Ruin, a player must have a **Settlement**, **City**, or **Active Kni
 ## ✅ Project To-Do List
 
 * [x] Design `.stl` file for Temple Ruin (Ensure visibility of number token).
-
 * [x] Test print for sizing/tolerances against standard Catan pieces.
-* ([ ] Paint/Finish prototype (Stone texture with moss wash).)
+* [ ] **(Optional)** Paint/Finish prototype (Stone texture with moss wash).
 * [ ] Playtest economy balance (Is 1 Ore/Brick/Wood too expensive?).
 
 ---
@@ -206,9 +205,8 @@ Um eine Ruine zu entfernen, muss ein Spieler eine **Siedlung**, eine **Stadt** o
 ## ✅ Projekt-To-Do-Liste
 
 * [x] `.stl`-Datei für Tempelruine entwerfen (Sichtbarkeit des Zahlenchips sicherstellen).
-
 * [x] Testdruck für Größe/Toleranzen gegen Standard-Catan-Teile.
-* ([ ] Prototyp bemalen/fertigstellen (Steintextur mit Moos-Wash).)
+* [ ] **(Optional)** Prototyp bemalen/fertigstellen (Steintextur mit Moos-Wash).
 * [ ] Wirtschaftsgleichgewicht testen (Ist 1 Erz/Lehm/Holz zu teuer?).
 
 ---
