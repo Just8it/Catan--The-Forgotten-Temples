@@ -14,9 +14,12 @@ This expansion creates a "high-risk, high-reward" economy and solves the "runawa
 
 ## 🏗️ 3D Printing The Components
 
-### The Temple Ruin
+### The Temple Ruin Variants
 
-The core component of this expansion. It is designed to sit directly on top of the cardboard number token.
+There are two 3D models available for this expansion. Both are designed to sit directly on top of the cardboard number token.
+
+* **Temple 1:** Custom generated model.
+* **Temple 2:** Based on a community design (see Attribution).
 
 * **Quantity:** 4 to 6 pieces (enough to cover all Red Numbers).
 * **Design Constraints:**
@@ -95,7 +98,12 @@ The cost is high: **1 Ore + 1 Brick + 1 Wood**.
 
 ---
 
-## 📄 License
+## � Credits & Attribution
+
+* **Temple Ruin (Model 2):** Based on ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) by **jimjimjimmyjim**, used under the **CC BY 3.0** license.
+* Modifications made: Resized, hollowed out center for number token visibility.
+
+## �📄 License
 
 This project is fan content and is not affiliated with Catan GmbH or Asmodee.
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -121,9 +129,12 @@ Diese Erweiterung schafft eine "High-Risk, High-Reward"-Wirtschaft und löst das
 
 ## 🏗️ 3D-Druck der Komponenten
 
-### Die Tempelruine
+### Die Tempelruinen-Varianten
 
-Die Kernkomponente dieser Erweiterung. Sie ist so konzipiert, dass sie direkt auf dem Papp-Zahlenchip sitzt.
+Es gibt zwei 3D-Modelle für diese Erweiterung. Beide sind so konzipiert, dass sie direkt auf dem Papp-Zahlenchip sitzen.
+
+* **Tempel 1:** Eigenes generiertes Modell.
+* **Tempel 2:** Basiert auf einem Community-Design (siehe Danksagung).
 
 * **Menge:** 4 bis 6 Stück (genug, um alle roten Zahlen abzudecken).
 * **Design-Einschränkungen:**
@@ -201,6 +212,11 @@ Die Kosten sind hoch: **1 Erz + 1 Lehm + 1 Holz**.
 * [ ] Wirtschaftsgleichgewicht testen (Ist 1 Erz/Lehm/Holz zu teuer?).
 
 ---
+
+## 👏 Danksagung & Namensnennung
+
+* **Tempelruinen-Modell (Variante 2):** Basiert auf ["crumbling ruined tower - terrain"](https://www.thingiverse.com/thing:4196257) von **jimjimjimmyjim**, verwendet unter der **CC BY 3.0** Lizenz.
+* Vorgenommene Änderungen: Größe angepasst, Mitte ausgehöhlt für Sichtbarkeit des Zahlenchips.
 
 ## 📄 Lizenz
 
